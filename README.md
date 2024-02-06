@@ -49,7 +49,7 @@ Install this project with:
 
   
 ## 🙏 Acknowledgments
-I would like to express our gratitude to ([PopulationPyramid.net](https://www.populationpyramid.net/afghanistan/2024/)) for providing the population data used in this project,
+I would like to express my gratitude to ([PopulationPyramid.net](https://www.populationpyramid.net/afghanistan/2024/)) for providing the population data used in this project,
 
 ## 📝 License <a name="license"></a>
 
