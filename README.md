@@ -10,7 +10,7 @@
 
 # 📖 [Population Funnel Chart] <a name="about-project"></a>
 
-**[Population-Funnel-Chart]** A React project that visualizes the population of Afghanistan retrieved from ([PopulationPyramid.net](https://www.populationpyramid.net/afghanistan/2024/)) across different age categories using a funnel chart implemented with 
+**[Population-Funnel-Chart]** A React project that visualizes the population of Afghanistan retrieved from ([PopulationPyramid.net](https://www.populationpyramid.net/afghanistan/2024/)) across different age categories using a funnel chart implemented with React ApexCharts.
 
 <br/>
 
